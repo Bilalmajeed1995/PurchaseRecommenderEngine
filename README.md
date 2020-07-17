@@ -1,2 +1,2 @@
 # SteamRecommenderEngine
-Build a recommender system based user purchases using user-based collaborative filtering
+Build a recommender system based on user purchases using user-based collaborative filtering
